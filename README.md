@@ -13,7 +13,7 @@ The project was developed as part of Basewinner's sports analytics research and 
 The workflow is organized into four stages:
 
 1. **NBA First-Half Data Acquisition**
-   - Retrieve NBA game and first-half scoring information programmatically
+   - Retrieve NBA game and first-half statistical information programmatically
    - Clean and standardize team-level results
    - Store historical information for downstream analysis
 
